@@ -29,7 +29,7 @@ To check that list run **push_swap** whith **checker**:
 ```
 ARG="98 21 76 43 12 67 34 89"; ./push_swap $ARG | ./checker $ARG
 ```
-To use visualisation use **checker** with **-c -v**:
+To use visualisation run **checker** with **-c -v**:
 ```
 ARG="-10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 10 9 8 7 6 5 4 3 2 1"; ./push_swap $ARG | ./checker -c -v $ARG
 ```
