@@ -1,5 +1,5 @@
 # push_swap
-**Push_swap** is a highly effective algorithm project (School 21). We need to sort data which is represented as a set of integer values. There are 2 stacks and a set of instructions to manipulate both stacks.
+**Push_swap** is a highly effective algorithm project. We need to sort data which is represented as a set of integer values. There are 2 stacks and a set of instructions to manipulate both stacks.
 
 The goal is to sort numbers (duplicates are not allowed) into a stack in ascending order using only the following operations:
 
